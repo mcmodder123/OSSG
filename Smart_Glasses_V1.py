@@ -96,6 +96,7 @@ while(1):
         camera.start_preview()
         sleep(2)
         camera.capture(f'img_{imagenum}.jpg')
+	imagenum = imagenum + 1
         sleep(5)
     elif vidbutton.is_pressed() and vidstate == 0:
         vidstate = 1
