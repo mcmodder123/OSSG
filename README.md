@@ -14,11 +14,11 @@ https://picamera.readthedocs.io/en/release-1.13/recipes1.html
 https://techexplorations.com/guides/rpi/begin/read-a-button-with-gpiozero/
 
 Materials needed:
-Raspberry Pi Zero W
-Small Speaker
-Small microphone
-3d printed frame
-python script
-battery
-battery circuit
-raspberry pi camera module
+Raspberry Pi Zero W,
+Small Speaker,
+Small microphone,
+3d printed frame,
+python script,
+battery,
+battery circuit, and
+raspberry pi camera module.
